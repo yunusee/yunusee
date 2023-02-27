@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there, I'm Yunus. I'm a CS student at İhsan Doğramacı Bilkent University.
 <!--
 **yunusee/yunusee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
