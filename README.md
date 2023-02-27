@@ -1,4 +1,4 @@
-### Hi there, I'm Yunus, a Freshman CS student at İhsan Doğramacı Bilkent University.
+### Hi there, I'm Yunus. I love math and reading books. I'm currently a Freshman CS student at İhsan Doğramacı Bilkent University.
 <!--
 **yunusee/yunusee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
